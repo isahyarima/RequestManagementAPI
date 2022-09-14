@@ -1,0 +1,33 @@
+C:\Users\isah.yarima\source\repos\Portal.API\Data.TransferObject\bin\Release\Data.TransferObject.dll
+C:\Users\isah.yarima\source\repos\Portal.API\Data.TransferObject\bin\Release\Data.TransferObject.pdb
+C:\Users\isah.yarima\source\repos\Portal.API\Data.TransferObject\obj\Release\Data.TransferObject.csprojAssemblyReference.cache
+C:\Users\isah.yarima\source\repos\Portal.API\Data.TransferObject\obj\Release\Data.TransferObject.dll
+C:\Users\isah.yarima\source\repos\Portal.API\Data.TransferObject\obj\Release\Data.TransferObject.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Data.TransferObject\bin\Release\Data.TransferObject.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Data.TransferObject\bin\Release\Data.TransferObject.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\School Portal\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\School Portal\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.pdb
+C:\Users\USER\Desktop\portal.api\Data.TransferObject\bin\Release\Data.TransferObject.dll
+C:\Users\USER\Desktop\portal.api\Data.TransferObject\bin\Release\Data.TransferObject.pdb
+C:\Users\USER\Desktop\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.dll
+C:\Users\USER\Desktop\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.TransferObject\bin\Release\Data.TransferObject.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.TransferObject\bin\Release\Data.TransferObject.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.csprojAssemblyReference.cache
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.csproj.CoreCompileInputs.cache
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.TransferObject\bin\Release\Data.TransferObject.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.TransferObject\bin\Release\Data.TransferObject.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.csprojAssemblyReference.cache
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.TransferObject\bin\Release\Data.TransferObject.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.TransferObject\bin\Release\Data.TransferObject.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.csprojAssemblyReference.cache
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.TransferObject\obj\Release\Data.TransferObject.pdb

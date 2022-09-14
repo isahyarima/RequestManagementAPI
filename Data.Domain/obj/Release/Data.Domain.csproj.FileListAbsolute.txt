@@ -1,0 +1,69 @@
+C:\Users\isah.yarima\source\repos\Portal.API\Data.Domain\bin\Release\Data.Domain.dll.config
+C:\Users\isah.yarima\source\repos\Portal.API\Data.Domain\bin\Release\Data.Domain.dll
+C:\Users\isah.yarima\source\repos\Portal.API\Data.Domain\bin\Release\Data.Domain.pdb
+C:\Users\isah.yarima\source\repos\Portal.API\Data.Domain\bin\Release\EntityFramework.dll
+C:\Users\isah.yarima\source\repos\Portal.API\Data.Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\isah.yarima\source\repos\Portal.API\Data.Domain\bin\Release\EntityFramework.xml
+C:\Users\isah.yarima\source\repos\Portal.API\Data.Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\isah.yarima\source\repos\Portal.API\Data.Domain\obj\Release\Data.Domain.csprojAssemblyReference.cache
+C:\Users\isah.yarima\source\repos\Portal.API\Data.Domain\obj\Release\Data.Domain.csproj.CopyComplete
+C:\Users\isah.yarima\source\repos\Portal.API\Data.Domain\obj\Release\Data.Domain.dll
+C:\Users\isah.yarima\source\repos\Portal.API\Data.Domain\obj\Release\Data.Domain.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\bin\Release\Data.Domain.dll.config
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\bin\Release\Data.Domain.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\bin\Release\Data.Domain.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\bin\Release\EntityFramework.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\bin\Release\EntityFramework.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\obj\Release\Data.Domain.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\obj\Release\Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\obj\Release\Data.Domain.csproj.CopyComplete
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\obj\Release\Data.Domain.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\obj\Release\Data.Domain.pdb
+C:\Users\USER\Desktop\portal.api\Data.Domain\bin\Release\Data.Domain.dll.config
+C:\Users\USER\Desktop\portal.api\Data.Domain\bin\Release\Data.Domain.dll
+C:\Users\USER\Desktop\portal.api\Data.Domain\bin\Release\Data.Domain.pdb
+C:\Users\USER\Desktop\portal.api\Data.Domain\bin\Release\EntityFramework.dll
+C:\Users\USER\Desktop\portal.api\Data.Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\portal.api\Data.Domain\bin\Release\EntityFramework.xml
+C:\Users\USER\Desktop\portal.api\Data.Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\portal.api\Data.Domain\obj\Release\Data.Domain.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\portal.api\Data.Domain\obj\Release\Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\portal.api\Data.Domain\obj\Release\Data.Domain.csproj.CopyComplete
+C:\Users\USER\Desktop\portal.api\Data.Domain\obj\Release\Data.Domain.dll
+C:\Users\USER\Desktop\portal.api\Data.Domain\obj\Release\Data.Domain.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\bin\Release\Data.Domain.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\bin\Release\Data.Domain.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\bin\Release\Data.Domain.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\bin\Release\EntityFramework.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\bin\Release\EntityFramework.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\obj\Release\Data.Domain.csprojAssemblyReference.cache
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\obj\Release\Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\obj\Release\Data.Domain.csproj.CopyComplete
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\obj\Release\Data.Domain.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\obj\Release\Data.Domain.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\bin\Release\Data.Domain.dll.config
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\bin\Release\Data.Domain.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\bin\Release\Data.Domain.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\bin\Release\EntityFramework.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\bin\Release\EntityFramework.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\obj\Release\Data.Domain.csprojAssemblyReference.cache
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\obj\Release\Data.Domain.csproj.CopyComplete
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\obj\Release\Data.Domain.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\obj\Release\Data.Domain.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\bin\Release\Data.Domain.dll.config
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\bin\Release\Data.Domain.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\bin\Release\Data.Domain.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\bin\Release\EntityFramework.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\bin\Release\EntityFramework.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\obj\Release\Data.Domain.csprojAssemblyReference.cache
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\obj\Release\Data.Domain.csproj.CopyComplete
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\obj\Release\Data.Domain.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\obj\Release\Data.Domain.pdb

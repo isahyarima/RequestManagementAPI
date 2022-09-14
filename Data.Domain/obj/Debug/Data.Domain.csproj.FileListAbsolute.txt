@@ -1,0 +1,103 @@
+C:\Users\USER\Desktop\portal.api\Data.Domain\bin\Debug\Data.Domain.dll.config
+C:\Users\USER\Desktop\portal.api\Data.Domain\bin\Debug\Data.Domain.dll
+C:\Users\USER\Desktop\portal.api\Data.Domain\bin\Debug\Data.Domain.pdb
+C:\Users\USER\Desktop\portal.api\Data.Domain\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\portal.api\Data.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\portal.api\Data.Domain\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\portal.api\Data.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\portal.api\Data.Domain\obj\Debug\Data.Domain.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\portal.api\Data.Domain\obj\Debug\Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\portal.api\Data.Domain\obj\Debug\Data.Domain.csproj.CopyComplete
+C:\Users\USER\Desktop\portal.api\Data.Domain\obj\Debug\Data.Domain.dll
+C:\Users\USER\Desktop\portal.api\Data.Domain\obj\Debug\Data.Domain.pdb
+C:\Users\isah.yarima\source\repos\portal.api\Data.Domain\bin\Debug\Data.Domain.dll.config
+C:\Users\isah.yarima\source\repos\portal.api\Data.Domain\bin\Debug\Data.Domain.dll
+C:\Users\isah.yarima\source\repos\portal.api\Data.Domain\bin\Debug\Data.Domain.pdb
+C:\Users\isah.yarima\source\repos\portal.api\Data.Domain\bin\Debug\EntityFramework.dll
+C:\Users\isah.yarima\source\repos\portal.api\Data.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isah.yarima\source\repos\portal.api\Data.Domain\bin\Debug\EntityFramework.xml
+C:\Users\isah.yarima\source\repos\portal.api\Data.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isah.yarima\source\repos\portal.api\Data.Domain\obj\Debug\Data.Domain.csproj.CopyComplete
+C:\Users\isah.yarima\source\repos\portal.api\Data.Domain\obj\Debug\Data.Domain.dll
+C:\Users\isah.yarima\source\repos\portal.api\Data.Domain\obj\Debug\Data.Domain.pdb
+C:\Users\isah.yarima\source\repos\portal.api\Data.Domain\obj\Debug\Data.Domain.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\bin\Debug\Data.Domain.dll.config
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\bin\Debug\Data.Domain.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\bin\Debug\Data.Domain.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\obj\Debug\Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\obj\Debug\Data.Domain.csproj.CopyComplete
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\obj\Debug\Data.Domain.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\obj\Debug\Data.Domain.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Data.Domain\obj\Debug\Data.Domain.csprojAssemblyReference.cache
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Data.Domain\bin\Debug\Data.Domain.dll.config
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Data.Domain\bin\Debug\Data.Domain.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Data.Domain\bin\Debug\Data.Domain.pdb
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Data.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Data.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Data.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Data.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Data.Domain\obj\Debug\Data.Domain.csprojAssemblyReference.cache
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Data.Domain\obj\Debug\Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Data.Domain\obj\Debug\Data.Domain.csproj.CopyComplete
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Data.Domain\obj\Debug\Data.Domain.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Data.Domain\obj\Debug\Data.Domain.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\bin\Debug\Data.Domain.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\bin\Debug\Data.Domain.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\bin\Debug\Data.Domain.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\obj\Debug\Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\obj\Debug\Data.Domain.csproj.CopyComplete
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\obj\Debug\Data.Domain.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\obj\Debug\Data.Domain.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Data.Domain\obj\Debug\Data.Domain.csprojAssemblyReference.cache
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\bin\Debug\Data.Domain.dll.config
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\bin\Debug\Data.Domain.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\bin\Debug\Data.Domain.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\bin\Debug\EntityFramework.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\bin\Debug\EntityFramework.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\obj\Debug\Data.Domain.csprojAssemblyReference.cache
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\obj\Debug\Data.Domain.csproj.CopyComplete
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\obj\Debug\Data.Domain.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Data.Domain\obj\Debug\Data.Domain.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\bin\Debug\Data.Domain.dll.config
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\bin\Debug\Data.Domain.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\bin\Debug\Data.Domain.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\bin\Debug\EntityFramework.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\bin\Debug\EntityFramework.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\obj\Debug\Data.Domain.csproj.CopyComplete
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\obj\Debug\Data.Domain.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\obj\Debug\Data.Domain.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Data.Domain\obj\Debug\Data.Domain.csprojAssemblyReference.cache
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Data.Domain\bin\Debug\Data.Domain.dll.config
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Data.Domain\bin\Debug\Data.Domain.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Data.Domain\bin\Debug\Data.Domain.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Data.Domain\bin\Debug\EntityFramework.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Data.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Data.Domain\bin\Debug\EntityFramework.xml
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Data.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Data.Domain\obj\Debug\Data.Domain.csproj.CopyComplete
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Data.Domain\obj\Debug\Data.Domain.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Data.Domain\obj\Debug\Data.Domain.pdb
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Data.Domain\bin\Debug\Data.Domain.dll.config
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Data.Domain\bin\Debug\Data.Domain.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Data.Domain\bin\Debug\Data.Domain.pdb
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Data.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Data.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Data.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Data.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Data.Domain\obj\Debug\Data.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Data.Domain\obj\Debug\Data.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Data.Domain\obj\Debug\Data.Domain.csproj.CopyComplete
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Data.Domain\obj\Debug\Data.Domain.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Data.Domain\obj\Debug\Data.Domain.pdb

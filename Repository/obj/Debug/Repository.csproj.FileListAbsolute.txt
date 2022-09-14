@@ -1,0 +1,329 @@
+C:\Users\USER\source\repos\Requisition\Repository\bin\Debug\Repository.dll.config
+C:\Users\USER\source\repos\Requisition\Repository\bin\Debug\Repository.dll
+C:\Users\USER\source\repos\Requisition\Repository\bin\Debug\Repository.pdb
+C:\Users\USER\source\repos\Requisition\Repository\bin\Debug\Data.Domain.dll
+C:\Users\USER\source\repos\Requisition\Repository\bin\Debug\Data.TransferObject.dll
+C:\Users\USER\source\repos\Requisition\Repository\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\Requisition\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\Requisition\Repository\bin\Debug\Interface.dll
+C:\Users\USER\source\repos\Requisition\Repository\bin\Debug\Data.Domain.pdb
+C:\Users\USER\source\repos\Requisition\Repository\bin\Debug\Data.Domain.dll.config
+C:\Users\USER\source\repos\Requisition\Repository\bin\Debug\Data.TransferObject.pdb
+C:\Users\USER\source\repos\Requisition\Repository\bin\Debug\Interface.pdb
+C:\Users\USER\source\repos\Requisition\Repository\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\Requisition\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\Requisition\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Requisition\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Requisition\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\USER\source\repos\Requisition\Repository\obj\Debug\Repository.dll
+C:\Users\USER\source\repos\Requisition\Repository\obj\Debug\Repository.pdb
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\Repository.dll.config
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\Repository.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\Repository.pdb
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\Data.Domain.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\Data.TransferObject.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\Interface.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\Data.Domain.pdb
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\Data.Domain.dll.config
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\Data.TransferObject.pdb
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\Interface.pdb
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\portal.api\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\portal.api\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\portal.api\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\USER\Desktop\portal.api\Repository\obj\Debug\Repository.dll
+C:\Users\USER\Desktop\portal.api\Repository\obj\Debug\Repository.pdb
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\Repository.dll.config
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\Repository.dll
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\Repository.pdb
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\Core.Common.dll
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\Data.Domain.dll
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\Data.TransferObject.dll
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\EntityFramework.dll
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\Interface.dll
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\Core.Common.pdb
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\Data.Domain.pdb
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\Data.Domain.dll.config
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\Data.TransferObject.pdb
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\Interface.pdb
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\EntityFramework.xml
+C:\Users\isah.yarima\source\repos\portal.api\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isah.yarima\source\repos\portal.api\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\isah.yarima\source\repos\portal.api\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\isah.yarima\source\repos\portal.api\Repository\obj\Debug\Repository.dll
+C:\Users\isah.yarima\source\repos\portal.api\Repository\obj\Debug\Repository.pdb
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\Core.Common.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\stdole.dll
+C:\Users\USER\Desktop\portal.api\Repository\bin\Debug\Core.Common.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\Repository.dll.config
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\Repository.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\Repository.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\Core.Common.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\Data.Domain.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\Data.TransferObject.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\Interface.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\stdole.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\Core.Common.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\Data.Domain.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\Data.Domain.dll.config
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\Data.TransferObject.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\Interface.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\obj\Debug\Repository.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Repository\obj\Debug\Repository.pdb
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\Repository.dll.config
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\Repository.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\Repository.pdb
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\Core.Common.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\Data.Domain.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\Data.TransferObject.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\Interface.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\stdole.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\Core.Common.pdb
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\Data.Domain.pdb
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\Data.Domain.dll.config
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\Data.TransferObject.pdb
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\Interface.pdb
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\obj\Debug\Repository.dll
+C:\Users\Yarima\Documents\repos\School Portal\portal.api\Repository\obj\Debug\Repository.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\Repository.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\Repository.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\Repository.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\Core.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\Data.Domain.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\Data.TransferObject.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\Interface.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\stdole.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\Core.Common.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\Data.Domain.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\Data.Domain.dll.config
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\Data.TransferObject.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\Interface.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\obj\Debug\Repository.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Repository\obj\Debug\Repository.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\Repository.dll.config
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\Repository.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\Repository.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\Core.Common.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\Data.Domain.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\Data.TransferObject.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\EntityFramework.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\Interface.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\stdole.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\Core.Common.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\Data.Domain.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\Data.Domain.dll.config
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\Data.TransferObject.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\Interface.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\EntityFramework.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\obj\Debug\Repository.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Repository\obj\Debug\Repository.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Repository.dll.config
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Repository.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Repository.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Authentication.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Core.Common.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Data.Domain.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Data.TransferObject.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\EntityFramework.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Interface.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Authentication.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Authentication.dll.config
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Core.Common.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Data.Domain.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Data.Domain.dll.config
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Data.TransferObject.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Interface.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\EntityFramework.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\obj\Debug\Repository.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Repository\obj\Debug\Repository.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Repository.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Repository.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Authentication.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Core.Common.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Data.Domain.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Data.TransferObject.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\EntityFramework.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Interface.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Authentication.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Authentication.dll.config
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Core.Common.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Data.Domain.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Data.Domain.dll.config
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Data.TransferObject.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Interface.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\EntityFramework.xml
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\obj\Debug\Repository.dll
+C:\Users\isah.yarima\Documents\SUN Projects\SSD\RequestAPI\Repository\obj\Debug\Repository.pdb
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Repository.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Repository.pdb
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Authentication.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Core.Common.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Data.Domain.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Data.TransferObject.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Interface.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\stdole.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Authentication.pdb
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Authentication.dll.config
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Core.Common.pdb
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Data.Domain.pdb
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Data.Domain.dll.config
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Data.TransferObject.pdb
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Interface.pdb
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\obj\Debug\Repository.dll
+C:\Users\Admin\Documents\Projects\SSD\RequestAPI\Repository\obj\Debug\Repository.pdb

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B9E5C63C-E32B-4294-8BAB-1B60307F3BD4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Interface</RootNamespace>
+    <AssemblyName>Interface</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IApprovalStatusRepository.cs" />
+    <Compile Include="IExamRequestRepository.cs" />
+    <Compile Include="IleaveRequestRepository.cs" />
+    <Compile Include="ILeaveTypeRepository.cs" />
+    <Compile Include="IRequestApprovalSetupRepository.cs" />
+    <Compile Include="IRequestApprovalTrailRepository.cs" />
+    <Compile Include="IRequestCategoryRepository.cs" />
+    <Compile Include="IRequestConditionRepository.cs" />
+    <Compile Include="IRequestDescriptionRepository.cs" />
+    <Compile Include="IRequestDocumentUploadRepository.cs" />
+    <Compile Include="IRequestFeeRepository.cs" />
+    <Compile Include="IRequestReasonRepository.cs" />
+    <Compile Include="IRequestTypeRepository.cs" />
+    <Compile Include="IRequiredFeeRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Authentication\Authentication.csproj">
+      <Project>{28A96B0B-B81F-48E4-9513-6E1062EAF6EC}</Project>
+      <Name>Authentication</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Core.Common\Core.Common.csproj">
+      <Project>{39edf0ac-de92-4ab8-9394-5efc2c23591b}</Project>
+      <Name>Core.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Data.Domain\Data.Domain.csproj">
+      <Project>{c803f4e9-73c4-4191-b003-9365c71b7c26}</Project>
+      <Name>Data.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Data.TransferObject\Data.TransferObject.csproj">
+      <Project>{8cc26c64-1095-42d3-b4ac-3b797adfd5ef}</Project>
+      <Name>Data.TransferObject</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

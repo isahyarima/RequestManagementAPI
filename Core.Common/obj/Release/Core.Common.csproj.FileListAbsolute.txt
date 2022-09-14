@@ -1,0 +1,99 @@
+C:\Users\isah.yarima\source\repos\Portal.API\Core.Common\bin\Release\Core.Common.dll
+C:\Users\isah.yarima\source\repos\Portal.API\Core.Common\bin\Release\Core.Common.pdb
+C:\Users\isah.yarima\source\repos\Portal.API\Core.Common\obj\Release\Core.Common.csprojAssemblyReference.cache
+C:\Users\isah.yarima\source\repos\Portal.API\Core.Common\obj\Release\Core.Common.dll
+C:\Users\isah.yarima\source\repos\Portal.API\Core.Common\obj\Release\Core.Common.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\Core.Common.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\Core.Common.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\obj\Release\Core.Common.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\obj\Release\Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\obj\Release\Core.Common.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\obj\Release\Core.Common.pdb
+C:\Users\USER\Desktop\portal.api\Core.Common\bin\Release\Core.Common.dll
+C:\Users\USER\Desktop\portal.api\Core.Common\bin\Release\Core.Common.pdb
+C:\Users\USER\Desktop\portal.api\Core.Common\obj\Release\Core.Common.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\portal.api\Core.Common\obj\Release\Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\portal.api\Core.Common\obj\Release\Core.Common.dll
+C:\Users\USER\Desktop\portal.api\Core.Common\obj\Release\Core.Common.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\Data.TransferObject.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\Data.TransferObject.pdb
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\obj\Release\Core.Common.csproj.CopyComplete
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\System.Web.Http.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\stdole.dll
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\USER\source\repos\School Portal\portal.api\Core.Common\bin\Release\System.Web.Http.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\Core.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\Core.Common.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\Data.TransferObject.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\Newtonsoft.Json.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\System.Web.Http.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\stdole.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\Data.TransferObject.pdb
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\Newtonsoft.Json.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\bin\Release\System.Web.Http.xml
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\obj\Release\Core.Common.csprojAssemblyReference.cache
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\obj\Release\Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\obj\Release\Core.Common.csproj.CopyComplete
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\obj\Release\Core.Common.dll
+C:\Users\Yarima\Documents\Projects\School Portal\portal.api\Core.Common\obj\Release\Core.Common.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Core.Common\bin\Release\Core.Common.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Core.Common\bin\Release\Core.Common.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Core.Common\bin\Release\Data.TransferObject.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Core.Common\bin\Release\Newtonsoft.Json.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Core.Common\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Core.Common\bin\Release\System.Web.Http.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Core.Common\bin\Release\Data.TransferObject.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Core.Common\bin\Release\Newtonsoft.Json.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Core.Common\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Core.Common\bin\Release\System.Web.Http.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Core.Common\obj\Release\Core.Common.csprojAssemblyReference.cache
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Core.Common\obj\Release\Core.Common.csproj.CopyComplete
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Core.Common\obj\Release\Core.Common.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Asset\portal.api\Core.Common\obj\Release\Core.Common.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Core.Common\bin\Release\Core.Common.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Core.Common\bin\Release\Core.Common.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Core.Common\bin\Release\Data.TransferObject.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Core.Common\bin\Release\Newtonsoft.Json.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Core.Common\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Core.Common\bin\Release\System.Web.Http.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Core.Common\bin\Release\Data.TransferObject.pdb
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Core.Common\bin\Release\Newtonsoft.Json.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Core.Common\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Core.Common\bin\Release\System.Web.Http.xml
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Core.Common\obj\Release\Core.Common.csprojAssemblyReference.cache
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Core.Common\obj\Release\Core.Common.csproj.CopyComplete
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Core.Common\obj\Release\Core.Common.dll
+C:\Users\isah.yarima\Documents\SUN Projects\Scholarship\portal.api\Core.Common\obj\Release\Core.Common.pdb
